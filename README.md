@@ -38,26 +38,7 @@ Identifiers: Any valid identifier following C rules (e.g., variables, functions)
 Requirements
 C Compiler: A C compiler such as GCC.
 Operating System: Compatible with all major operating systems (Linux, macOS, Windows).
-Installation
-Step 1: Clone the Repository
-Clone the repository to your local machine:
 
-bash
-Copy
-git clone https://github.com/your-username/lexical-analyzer-c.git
-cd lexical-analyzer-c
-Step 2: Compile the Program
-To compile the program, use the following command:
-
-bash
-Copy
-gcc -o lexical_analyzer lexical_analyzer.c
-Step 3: Run the Program
-Once compiled, run the program with the following command:
-
-bash
-Copy
-./lexical_analyzer
 Sample Input
 You can modify the sampleCode string in the main() function, or alternatively, update the program to read from a file. Here's an example of a C-like input string:
 
