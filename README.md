@@ -109,3 +109,9 @@ Additional Notes:
 Replace your-username in the repository URL with your actual GitHub username.
 Extensibility: The program can be extended to handle more complex tokens (e.g., numbers, string literals, comments), support more operators, or handle multi-character tokens.
 Reading from Files: The program currently works with hardcoded input in main(). You can extend it to read input from a file for more flexibility.
+
+output:
+
+![Image](https://github.com/user-attachments/assets/9b0116fd-9764-4429-8791-e81ef4f33113)
+![Image](https://github.com/user-attachments/assets/64ba604e-fe31-46d3-ab29-38da9efe6348)
+![Image](https://github.com/user-attachments/assets/c904a54d-99cf-45b6-95bc-5bd82a4f4f49)
